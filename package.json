@@ -1,0 +1,23 @@
+{
+  "name": "firstelectron",
+  "version": "1.0.0",
+  "description": "first electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suiname/firstElectron.git"
+  },
+  "author": "Jason Tham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Suiname/firstElectron/issues"
+  },
+  "homepage": "https://github.com/Suiname/firstElectron#readme",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
